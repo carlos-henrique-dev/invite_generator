@@ -1,0 +1,23 @@
+.konvacontainer {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
+.nameslist {
+  width: 150px;
+  border-right: 1px solid #c0c0c0;
+  margin-right: 10px;
+}
+
+.textEditor {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.buttonsgroup {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
